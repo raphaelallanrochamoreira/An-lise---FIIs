@@ -1,0 +1,13 @@
+# Dados brutos (baixar direto da CVM)
+data/raw/
+data/processed/
+
+# Power BI temporários
+*.tmp
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
